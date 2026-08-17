@@ -22,8 +22,8 @@ My research centers on Large Language Models, with a particular interest in pers
 ## News
 
 <ul class="news-list">
-  <li><span class="news-date">08.2026</span><span>This academic homepage is online.</span></li>
   <li><span class="news-date">06.2026</span><span><em>Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization</em> was released as a preprint.</span></li>
+  <li><span class="news-date">04.2026</span><span>Our survey <a href="https://arxiv.org/abs/2412.03563"><em>From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents</em></a> was accepted by <em>ACM Computing Surveys</em>.</span></li>
   <li><span class="news-date">02.2026</span><span><em>CURP: Codebook-based Continuous User Representation for Personalized Generation with LLMs</em> was released as a preprint.</span></li>
 </ul>
 
