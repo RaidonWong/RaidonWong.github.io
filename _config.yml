@@ -30,7 +30,7 @@ atom_feed:
 # Site author
 author:
   name: "Liang Wang"
-  avatar: "/assets/images/avatar.svg"
+  avatar: "/assets/images/avatar-ghibli.jpg"
   bio: "Graduate Student at Fudan University"
   location: "Shanghai, China"
   links:
