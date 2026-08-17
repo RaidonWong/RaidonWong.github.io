@@ -23,6 +23,7 @@ social:
   name: "Liang Wang"
   links:
     - "https://github.com/RaidonWong"
+    - "https://scholar.google.com/citations?user=K9KoJt8AAAAJ&hl=en"
 atom_feed:
   path: "feed.xml"
 
@@ -30,9 +31,12 @@ atom_feed:
 author:
   name: "Liang Wang"
   avatar: "/assets/images/avatar.svg"
-  bio: "Large Language Models · Personalization · Alignment"
+  bio: "Graduate Student at Fudan University"
   location: "Shanghai, China"
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=K9KoJt8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RaidonWong"
@@ -40,6 +44,9 @@ author:
 # Footer
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=K9KoJt8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RaidonWong"

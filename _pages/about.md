@@ -1,18 +1,21 @@
 ---
-title: "关于我"
+title: "About Me"
 permalink: /about/
 ---
 
-你好，我是 **Liang Wang**。
+Greetings! I am **Liang Wang**, currently a graduate student at [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei).
 
-我的研究兴趣主要包括大语言模型个性化、用户建模和模型对齐。这个网站用于整理研究动态、论文、项目与学习笔记。
+I am a member of the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://fudan-disc.com/) and [Fudan NLP](https://nlp.fudan.edu.cn/). Before joining Fudan, I received my bachelor's degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/).
 
-## 这个网站有什么
+My research interests include personalized Large Language Models, user modeling, alignment, and post-training. My complete publication list is available on [Google Scholar](https://scholar.google.com/citations?user=K9KoJt8AAAAJ&hl=en).
 
-- 学习过程中值得复用的知识与方法
-- 项目实践、问题排查和经验总结
-- 阅读、工具与生活方面的零散记录
+## Research Interests
 
-## 联系我
+- Personalized Large Language Models
+- User Modeling and Personalization
+- Alignment and Post-training
 
-你可以在 `_config.yml` 的 `author.links` 中添加邮箱、GitHub、LinkedIn 等联系方式。完成后，它们会自动显示在左侧个人信息栏。
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=K9KoJt8AAAAJ&hl=en)
+- [GitHub](https://github.com/RaidonWong)
