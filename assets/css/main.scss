@@ -79,11 +79,13 @@ $right-sidebar-width: 200px;
   font-weight: 600;
 }
 
-.publication-item {
+.publication-item,
+.experience-item {
   margin: 0 0 1.45rem;
 }
 
-.publication-item h3 {
+.publication-item h3,
+.experience-item h3 {
   margin: 0 0 0.25rem;
   font-size: 1rem;
   line-height: 1.45;
@@ -93,12 +95,14 @@ $right-sidebar-width: 200px;
   text-decoration: none;
 }
 
-.publication-item p {
+.publication-item p,
+.experience-item p {
   margin-bottom: 0.18rem;
 }
 
 .publication-venue,
-.publication-note {
+.publication-note,
+.experience-date {
   color: #6f777d;
   font-size: 0.9em !important;
 }

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:
+title: false
 permalink: /
 author_profile: true
 classes: wide academic-home
@@ -67,6 +67,22 @@ For the latest citation information, please visit my [Google Scholar profile](ht
 </div>
 
 <p class="publication-note"><em>* indicates equal contribution.</em></p>
+
+## Internship Experience
+
+<div class="experience-list">
+  <article class="experience-item">
+    <h3>Shanghai Innovation Institute “Seed Plan”</h3>
+    <p>LLM Post-training Algorithm Intern</p>
+    <p class="experience-date">Nov 2026 – May 2027 (estimated)</p>
+  </article>
+
+  <article class="experience-item">
+    <h3>OPPO Personalized Lab</h3>
+    <p>Algorithm Intern</p>
+    <p class="experience-date">Oct 2025 – Jan 2026</p>
+  </article>
+</div>
 
 ## Professional Service
 
