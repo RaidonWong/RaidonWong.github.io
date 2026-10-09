@@ -37,7 +37,7 @@ For the latest citation information, please visit my [Google Scholar profile](ht
 <div class="publication-list">
   <article class="publication-item">
     <h3><a href="https://arxiv.org/abs/2610.08967">Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation</a></h3>
-    <p><strong>Liang Wang</strong>, Wenxuan Xie, Xinyi Mou, Yixin Luo, Zhongyu Wei.</p>
+    <p><strong>Liang Wang<sup>*</sup></strong>, Wenxuan Xie<sup>*</sup>, Xinyi Mou, Yixin Luo, Zhongyu Wei.</p>
     <p class="publication-venue">arXiv preprint, 2026 · <a href="https://arxiv.org/abs/2610.08967">Paper</a></p>
   </article>
 
