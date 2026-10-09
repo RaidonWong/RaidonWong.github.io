@@ -36,6 +36,12 @@ For the latest citation information, please visit my [Google Scholar profile](ht
 
 <div class="publication-list">
   <article class="publication-item">
+    <h3><a href="https://arxiv.org/abs/2610.08967">Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation</a></h3>
+    <p><strong>Liang Wang</strong>, Wenxuan Xie, Xinyi Mou, Yixin Luo, Zhongyu Wei.</p>
+    <p class="publication-venue">arXiv preprint, 2026 · <a href="https://arxiv.org/abs/2610.08967">Paper</a></p>
+  </article>
+
+  <article class="publication-item">
     <h3><a href="https://arxiv.org/pdf/2606.02300">Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization</a></h3>
     <p><strong>Liang Wang*</strong>, Xinyi Mou*, Xiaoyou Liu, Tiannan Wang, Yuqing Wang, Zhongyu Wei.</p>
     <p class="publication-venue">Findings of EMNLP 2026 · <a href="https://arxiv.org/pdf/2606.02300">Paper</a></p>
@@ -64,5 +70,6 @@ For the latest citation information, please visit my [Google Scholar profile](ht
 
 ## Professional Service
 
-- **Reviewer:** ICLR, COLM
+- **Reviewer:** ICLR, COLM, ARR
+- **Invited Talk:** Oct 2026, Keynote on “Personalized Foundation Model for Social Simulation” at the [Social Simulation with LLMs: Fidelity in Applications Workshop](https://sites.google.com/view/social-sims-with-llms), COLM 2026
 - **Invited Talk:** Jul 2026, Tutorial on “LLM Personalization” at CCF ADL, Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)
