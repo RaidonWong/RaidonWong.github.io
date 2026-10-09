@@ -79,7 +79,7 @@ For the latest citation information, please visit my [Google Scholar profile](ht
 
   <article class="experience-item">
     <h3>OPPO Personalized Lab</h3>
-    <p>Algorithm Intern</p>
+    <p>LLM Personalization Algorithm Intern</p>
     <p class="experience-date">Oct 2025 – Jan 2026</p>
   </article>
 </div>
