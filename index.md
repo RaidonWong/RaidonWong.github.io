@@ -22,8 +22,8 @@ My research centers on Large Language Models, with a particular interest in pers
 ## News
 
 <ul class="news-list">
-  <li><span class="news-date">10.2026</span><span>Our work <a href="https://arxiv.org/abs/2610.08967"><em>Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation</em></a> was released as a preprint.</span></li>
   <li><span class="news-date">10.2026</span><span>Keynote talk: <em>Personalized Foundation Model for Social Simulation</em> at the <a href="https://sites.google.com/view/social-sims-with-llms"><em>Social Simulation with LLMs: Fidelity in Applications Workshop</em></a>, <em>COLM 2026</em>.</span></li>
+  <li><span class="news-date">10.2026</span><span>Our work <a href="https://arxiv.org/abs/2610.08967"><em>Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation</em></a> was released as a preprint.</span></li>
   <li><span class="news-date">08.2026</span><span><em>CURP</em> and <em>PersonaDual</em> were accepted to the main conference of <em>EMNLP 2026</em>, and <em>Beyond Isolated Behaviors</em> was accepted to <em>Findings of EMNLP 2026</em>.</span></li>
   <li><span class="news-date">06.2026</span><span><em>Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization</em> was released as a preprint.</span></li>
   <li><span class="news-date">04.2026</span><span>Our survey <a href="https://arxiv.org/abs/2412.03563"><em>From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents</em></a> was accepted by <em>ACM Computing Surveys</em>.</span></li>
